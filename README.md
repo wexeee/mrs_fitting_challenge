@@ -1,7 +1,7 @@
 # ISMRM Spectroscopy Study Group: MRS Fitting Challenge
 https://www.ismrm.org/workshops/Spectroscopy16/mrs_fitting_challenge/  
   
-This data and the fitting challenge was prepared by Malgorzata Marjanska, Dinesh Deelchand, and Roland Kreis.
+This data and the fitting challenge was prepared by Malgorzata Marjanska, Dinesh Deelchand, and Roland Kreis.  
 Malgorzata Marjanska: gosia@cmrr.umn.edu  
 Roland Kreis: roland.kreis@insel.ch  
   
